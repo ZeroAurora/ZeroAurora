@@ -1,7 +1,7 @@
 ### Hi! I'm ZeroAurora
 
 - A high school student in Fujian, China.
-- A [MUG(Music Game)](https://en.wikipedia.org/wiki/Music_video_game) lover.
+- A [MUG (Music Game)](https://en.wikipedia.org/wiki/Music_video_game) lover.
 - I speak (Simplified) Chinese and English.
 - I'm not a programmer, but may be one in the future.
 - I love libre softwares, but I don't hate proprietary softwares.
