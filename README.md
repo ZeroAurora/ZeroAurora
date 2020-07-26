@@ -5,7 +5,7 @@
 - I speak (Simplified) Chinese and English.
 - I'm not a programmer, but may be one in the future.
 
-<details><summary><b>Facts</b></summmary>
+<details><summary><b>Facts</b></summary>
 
 - I love libre softwares, but I don't hate proprietary softwares.
 - I'm always raising questions but never code.
