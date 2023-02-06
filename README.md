@@ -1,7 +1,7 @@
-- ~~A high school student in Fujian, China.~~ ~~No longer one!~~ A student in Xidian University.
-- I often post useless issues/discussions.
-- An [Arknights](https://ak.hypergryph.com/) lover.
-- I speak (Simplified) Chinese and English.
-- I'm not a programmer. Currently. Maybe as well in the future.
+- NOT an OIer.
+- NOT an ACMer.
+- NOT a developer.
+- NOT a hacker
+- Just a lazy student who browse GitHub and raise issues and star a lot.
 
-Other links: [Random Ideas](./ideas.md) | [Issues](https://github.com/ZeroAurora/ZeroAurora/issues)
+[Random Ideas](./ideas.md) | [Ask Me](https://github.com/ZeroAurora/ZeroAurora/issues)
