@@ -24,6 +24,7 @@
    - 命令行交互与 Shell
    - 初遇软件包管理系统
    - 安装第一个软件包：GNU 编译器集合（GCC）
+   - 安装一个编辑器：Visual Studio Code
 4. 程序设计基础：以 Python 为例
    - 认识 Python 程序设计语言
    - 廉价计算器：Python REPL
