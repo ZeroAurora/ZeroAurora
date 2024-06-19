@@ -1,9 +1,66 @@
 # Random Ideas
 
-## unpm - Deno doesn't need a package manager
+## CompFuture
 
-- `import bar from "https://example.com/github.com/foo/bar"`
-- the server takes a git clone of `github.com/foo/bar` and find `mod.[ts,js]` in its main branch
-- then, have it bundled with rollup and esbuild.
-  - see https://github.com/rollup/rollup https://github.com/egoist/rollup-plugin-esbuild https://github.com/Swatinem/rollup-plugin-dts
-- serve it
+### CosmicCompass
+
+中文名：《写给宇宙的计算机科学入门指南》
+
+书本结构
+
+0. 引言
+1. 仰望星空：重新认识计算机
+   - 先哲之痕：计算机历史综述
+   - 计算机组成
+     - ……
+   - ……
+2. 备好行囊：你需要准备的东西
+   - 善其事，利其器：基本的硬件支持
+   - 是谁操作谁：审视操作系统
+   - 旅途之前：调整自己的心态
+3. 第一宇宙速度：向未知进发
+   - 认识类 Unix 操作系统
+   - 在虚拟机中安装 Debian GNU/Linux
+   - 命令行交互与 Shell
+   - 初遇软件包管理系统
+   - 安装第一个软件包：GNU 编译器集合（GCC）
+4. 程序设计基础
+   - 认识 Python 程序设计语言
+   - 廉价计算器：Python REPL
+   - 变量赋值与读取、输入与输出、类型系统基础
+   - 分支条件与循环、简单的程序逻辑
+   - 函数、面向过程程序设计概述
+   - 类、面向对象程序设计概述
+   - 标准库、Python 文档、信息获取能力训练
+   - 第三方模块、虚拟环境、现代软件工程初探
+   - Lab：基于 StreamLit 的猜数字游戏
+5. C 程序设计语言与数据结构
+   - C 语言的历史概述
+   - 与编译器的初次见面
+   - 语法基础
+   - 算法与数据结构
+     - ...
+6. 再论操作系统
+   - 进程概述
+   - 系统调用与受限直接执行
+   - 存储体系结构
+   - 进程调度与进程间的同步
+7. 系统编程概述
+   - 数组的本质、认识进程的虚拟内存
+   - 再论类型系统、强类型与弱类型
+   - 编译原理概述、头文件包含的实质
+   - POSIX 程序设计
+8. Web 开发快速入门
+   - HTML 与 CSS
+   - JavaScript、DOM
+   - 使用 Python Django 编写基于 HTML 的网页应用
+   - Node.js，服务器侧的 JavaScript
+   - 现代 JavaScript 工具链、JSON、API、DOM 框架
+10. 现代软件工程
+   - 源代码版本控制系统
+   - 依赖管理与第三方依赖
+   - 服务器与软件部署
+   - 软件安全性
+11. 尾声
+
+我草是不是太长了
