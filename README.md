@@ -4,6 +4,11 @@ Profile updated: 2025.
 - I always regret for what I have done in the past. But I still continously do things wrong.
 - Where am I going? Only time will tell.
 
+Member of:
+
+- [@GeekTechX](https://github.com/GeekTechX) A normal member
+- [@AOSC-Dev](https://github.com/AOSC-Dev) A random packager
+
 Currently working on:
 
 - Hackable, the computer science lab suite for the future era
