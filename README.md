@@ -6,7 +6,7 @@ Profile updated: 2025.
 
 Member of:
 
-- [@GeekTechX](https://github.com/GeekTechX) A normal member
+- [@EM-GeekLab](https://github.com/EM-GeekLab) A normal member
 - [@AOSC-Dev](https://github.com/AOSC-Dev) A random packager
 
 Currently working on:
