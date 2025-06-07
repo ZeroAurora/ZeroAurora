@@ -17,3 +17,5 @@ Currently working on:
 *I'll forever strive for the miracle called TOMORROW.*
 
 [Random Ideas](./ideas.md) | [Ask Me](https://github.com/ZeroAurora/ZeroAurora/issues)
+
+*pfp template by @饼子子 on Neka*
