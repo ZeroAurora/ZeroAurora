@@ -18,4 +18,4 @@ Currently working on:
 
 [Random Ideas](./ideas.md) | [Ask Me](https://github.com/ZeroAurora/ZeroAurora/issues)
 
-*pfp template by @饼子子 on Neka*
+*[pfp template](https://www.neka.cc/composer/13703) by @饼子子 on Neka*
