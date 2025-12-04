@@ -12,7 +12,7 @@ Member of:
 Currently working on:
 
 - Some competitive stuff
-- Look for a (CN-based early-in-profession) job
+- Looking for a (CN-based early-in-profession) job
 
 Projects I've (actually) made contributions to:
 
