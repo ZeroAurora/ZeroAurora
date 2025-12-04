@@ -11,8 +11,15 @@ Member of:
 
 Currently working on:
 
-- Hackable, the computer science lab suite for the future era
-- Cosmic Compass, a naive course to software engineering
+- Some competitive stuff
+- Look for a (CN-based early-in-profession) job
+
+Projects I've (actually) made contributions to:
+
+- [AOSC OS Package Tree](https://github.com/AOSC-Dev/aosc-os-abbs)
+- [AOSC OS Website and News](https://github.com/AOSC-Dev/website)
+- [mise](https://github.com/jdx/mise)
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai)
 
 *I'll forever strive for the miracle called TOMORROW.*
 
