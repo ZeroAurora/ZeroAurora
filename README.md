@@ -11,8 +11,7 @@ Member of:
 
 Currently working on:
 
-- Some competitive stuff
-- Looking for a (CN-based early-in-profession) job
+- Graduation Project
 
 Projects I've (actually) made contributions to:
 
