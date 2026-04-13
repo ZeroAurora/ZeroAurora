@@ -1,8 +1,6 @@
-Profile updated: 2025.
+Profile updated: 2026.
 
-- Not a professional developer. Nor will be in the future.
-- I always regret for what I have done in the past. But I still continously do things wrong.
-- Where am I going? Only time will tell.
+I got a job that I suspect to be replaced by AI.
 
 Member of:
 
