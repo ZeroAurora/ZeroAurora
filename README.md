@@ -4,12 +4,8 @@ I got a job that I suspect to be replaced by AI.
 
 Member of:
 
-- [@EM-GeekLab](https://github.com/EM-GeekLab) A normal member
-- [@AOSC-Dev](https://github.com/AOSC-Dev) A random packager
-
-Currently working on:
-
-- Graduation Project
+- [@EM-GeekLab](https://github.com/EM-GeekLab)
+- [@AOSC-Dev](https://github.com/AOSC-Dev)
 
 Projects I've (actually) made contributions to:
 
