@@ -16,6 +16,4 @@ Projects I've (actually) made contributions to:
 
 *I'll forever strive for the miracle called TOMORROW.*
 
-[Random Ideas](./ideas.md) | [Ask Me](https://github.com/ZeroAurora/ZeroAurora/issues)
-
 pfp by [shirakinwu @ Mihuashi](https://www.mihuashi.com/profiles/1267431?role=painter).
